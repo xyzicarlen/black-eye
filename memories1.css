@@ -1,14 +1,61 @@
 html {
-    background-color: #ece6c2;
-    @font-face {
-    font-family: 'TychoEIU';
-    src: url("./TychoEIU.ttf") format("truetype");
-    font-weight: normal;
-    font-style: normal;
-}
+    background-color: e4e6e3;
+    width: 100%;
 }
 
-img {
-    width: 50%
+p {
+    text-align: center;
+    font-family: 'Playwrite DE SAS';
+    font-size: 80%;
 }
 
+.foto1 {
+    display: block;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.foto2 {
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu {
+    text-align: center;
+    font-family: "Playwrite AU TAS";
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.open1 {
+    background-color:#323232;
+    color:#e4e6e3;
+    font-weight: bolder;
+    border-color:#323232;
+    border-radius: 8px;
+    width: 15%;
+    font-size: small;
+}
+
+.open2 {
+    background-color:#323232;
+    color:#e4e6e3;
+    border-color:#323232;
+    border-radius: 8px;
+    font-size: small;
+    font-weight: bolder;
+    width: 25%;
+}
+
+.open3 {
+    background-color:#323232;
+    color:#e4e6e3;
+    font-weight: bolder;
+    border-color:#323232;
+    border-radius: 8px;
+    width: 15%;
+    font-size: small;
+}
