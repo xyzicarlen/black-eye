@@ -1,0 +1,14 @@
+html {
+    background-color: #ece6c2;
+    @font-face {
+    font-family: 'TychoEIU';
+    src: url("./TychoEIU.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+}
+
+img {
+    width: 50%
+}
+
